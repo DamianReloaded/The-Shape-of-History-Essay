@@ -2,6 +2,8 @@
 
 ## Entropy, Causality, and a Dynamical Four-Dimensional Universe
 
+[Read the full article](https://damianreloaded101.blogspot.com/2026/08/entropy-causality-and-dynamical-four.html)
+
 ### Abstract
 
 *The Shape of History* explores the possibility that the thermodynamic arrow of time is not a fundamental feature of microscopic laws, but an emergent property of a deeper dynamical structure involving complete four-dimensional histories.
